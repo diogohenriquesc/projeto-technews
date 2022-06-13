@@ -125,8 +125,7 @@ article a::after {
 
 aside {
     background: var(--cor02);
-    max-width: 940px;
-    margin: 0 auto;
+    margin: 15px;
     border-radius: 10px;
 }
 
